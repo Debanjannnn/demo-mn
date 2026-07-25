@@ -148,3 +148,4 @@ Every push and pull request runs the `CI` workflow (`.github/workflows/ci.yaml`)
 - [Troubleshooting](docs/TROUBLESHOOTING.md) — fixes for common setup issues
 - [AGENTS.md](AGENTS.md) — repo layout notes for AI coding agents
 - [Official Midnight Documentation](https://docs.midnight.network/)
+# demo-mn
